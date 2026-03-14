@@ -40,22 +40,22 @@ The main menu offers three options:
 
 1. Run a specific algorithm
 
-  -Choose a category, then an algorithm.
+- Choose a category, then an algorithm.
 
-  -Input data as prompted (edges, arrays, items, etc.).
+- Input data as prompted (edges, arrays, items, etc.).
 
-  -View the result, correctness proof, complexity, and execution time.
+- View the result, correctness proof, complexity, and execution time.
 
 2. Benchmark an algorithm
 
-  -Select an algorithm and enter a list of input sizes.
+- Select an algorithm and enter a list of input sizes.
 
-  -The program generates random data of each size and reports the measured runtime.
+- The program generates random data of each size and reports the measured runtime.
 
-  -Ideal for observing empirical growth rates (e.g., O(n log n) vs O(n²)).
+- Ideal for observing empirical growth rates (e.g., O(n log n) vs O(n²)).
 
 3. Get algorithmic advice
 
-  -Answer a few questions about your problem (data type, constraints, etc.).
+- Answer a few questions about your problem (data type, constraints, etc.).
 
-  -Receive a clear, reasoned suggestion for the most suitable algorithm.
+- Receive a clear, reasoned suggestion for the most suitable algorithm.
