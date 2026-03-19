@@ -1,3 +1,5 @@
+![CI](https://github.com/MituAM/AlgoPlayground/actions/workflows/ci.yml/badge.svg)
+
 # AlgoPlayground
 
 **AlgoPlayground** is an interactive command‑line application that demonstrates mastery of fundamental algorithm design paradigms: graph algorithms, greedy algorithms, divide and conquer, dynamic programming, and network flow. It provides a hands‑on environment to run algorithms, view correctness proofs, analyze theoretical and experimental running times, and receive well‑argued algorithmic advice.
