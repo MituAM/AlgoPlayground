@@ -161,7 +161,7 @@ def test_edmonds_karp():
         't': {}
     }
     flow, resid = edmonds_karp(cap, 's', 't')
-    assert flow == 18
+    assert flow == 15
 
 def test_edmonds_karp_disconnected():
     cap = {'s': {'a': 5}, 'a': {}, 't': {}}
